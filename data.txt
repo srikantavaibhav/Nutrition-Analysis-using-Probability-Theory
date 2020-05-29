@@ -1,0 +1,51 @@
+Sl No.	Food Product(100g)	Calories	Protein(%) 	Fat(%)	Carbs(%)
+1	Cheese Sandwich		298		10		13.6	34.3
+2	Fried Rice		110		2.2		3.6	17.4
+3	Plain Dosa		189		5.2		4.8	31.5
+4	Wheat Chapati		244		8.7		1.2	49.6
+5	Rava Upma		131		3.4		4.8	18.7
+6	Wheat Poori		288		8		10.6	43.6
+7	Palak Paneer		118		4		9.5	4.1
+8	Rasam			43		2.4		1.1	6.2
+9	White Rice		115		2.5		0.3	25.6
+10	Rice Idli		139		4.9		0.3	29
+11	Uddina Vada		348		10.5		22.4	26
+12	Vegetable Pulao		97		2.3		2.5	16.4
+13	Akki Rotti		208		2.7		8.1	30.4
+14	Curd Rice		118		3.7		3.1	18.7
+15	Maggi Noodles		423		9.2		15.8	61.1
+16	Wheat Bread		270		5		29	66
+17	Brown Bread		244		8.8		1.4	49
+18	Coco Cola(100ml)	42		0		0	10.6
+19	Fanta(100ml)		51		0		0	13
+20	Sprite(100ml)		48		0		0	12
+21	Maaza Drink(100ml)	55		0		0	13.3
+22	Cow's Milk(100ml)	69		3.3		4.2	4.5
+23	Powdered Milk(100ml)	434		17.4		18.2	50.3
+24	Curd			60		3.1		4	3
+25	Tea with Sugar & Milk	41		1.7		1.8	4.6
+26	Coffee with Sugar	54		1.5		2.9	5.1
+27	Peanut Butter		594		21.9		50	25
+28	Paneer			265		18.3		20.8	1.2
+29	Butter			729		0		81	0
+30	Ice Cream		262		2		19.2	21.7
+31	Cake			392		6		21.8	44.2
+32	Chocolate Pastry	377		7.3		18.4	45.8
+33	French Fries		314		3.8		16.1	38.4
+34	Samosa			268		3.9		15.3	28.5
+35	Vegetable Pizza		127		5.9		2.4	20.8
+36	Lays Maxx Potato Chips	520		8		31	52
+37	Kurkure			564		6.3		35.7	54.3
+38	Banana Chips		519		2.3		33.6	58.4
+39	Pani Puri		231		3.3		12.2	26.9
+40	Masala Puri		129		5.2		2.8	23.2
+41	Bhel Puri		119		2.5		2.7	21.4
+42	Kachori			375		8		21.8	36.8
+43	Pav Bhaji		151		3.3		2.4	29.3
+44	Vegetable Puff		255		3.9		16.7	22.5
+45	Aloo Bun		287		6.2		8.9	45.4
+46	Mysore Pak		366		3		22.4	39
+47	Jelebi			236		4.5		8.9	34.2
+48	Gulab Jamun		375		4.2		23.9	36.8
+49	Champakali		127		3.3		3.3	21.7
+50	Carrot Halwa		241		4.9		11.3	30.3
